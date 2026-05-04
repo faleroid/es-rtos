@@ -1,6 +1,6 @@
 # ⏱️ FreeRTOS Sensor Monitoring System (Producer-Consumer)
 
-[![Wokwi Simulation](https://img.shields.io/badge/Wokwi-Simulasi_Project-blue?style=for-the-badge&logo=wokwi)](#)
+[![Wokwi Simulation](https://img.shields.io/badge/Wokwi-Simulasi_Project-blue?style=for-the-badge&logo=wokwi)](https://wokwi.com/projects/463060527444257793)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
 
 ## 📌 Deskripsi Proyek
